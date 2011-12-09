@@ -14,7 +14,7 @@ $(function()
 	$('#my_footer').positionfooterbottom_tcf();
 	
 });
-
+```
 
 ## Author
 
