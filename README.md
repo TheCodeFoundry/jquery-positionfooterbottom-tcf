@@ -2,6 +2,16 @@
 
 This simple plugin makes sure your footer is at the bottom of the page. This is useful if you have a large (wide) footer that looks odd when not at the bottom of the screen on low content pages. Doesn't do anything if the footer element is already at the bottom
 
+Tested as working in:
+
+* IE7
+* IE8
+* IE9
+* Chrome
+* Firefox
+* Safari
+* Opera
+
 ## Example
 
 ```html
